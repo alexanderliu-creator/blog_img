@@ -1,0 +1,85 @@
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<link rel="shortcut icon" href="//statics.moonshot.cn/kimi-chat/favicon.ico">
+<link rel="stylesheet" href="//statics.moonshot.cn/kimi-chat/umi.b65fd80e.css">
+<script src="//statics.moonshot.cn/kimi-chat/lib/react-latest/react.production.min.js"></script>
+<script src="//statics.moonshot.cn/kimi-chat/lib/react-latest/react-dom.production.min.js"></script>
+<script src="//statics.moonshot.cn/kimi-chat/framework.dfbd90eb.js"></script>
+<script src="https://res.wx.qq.com/connect/zh_CN/htmledition/js/wxLogin.js"></script>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+<script src="https://at.alicdn.com/t/c/font_4237816_xxg9gemj6q8.js"></script>
+<script>(function(n,e,r,t,a,o,s,i,c,l,f,m,p,u){o="precollect";s="getAttribute";i="addEventListener";c="PerformanceObserver";l=function(e){f=[].slice.call(arguments);f.push(Date.now(),location.href);(e==o?l.p.a:l.q).push(f)};l.q=[];l.p={a:[]};n[a]=l;m=document.createElement("script");m.src=r+"?aid="+t+"&globalName="+a;m.crossorigin="anonymous";e.getElementsByTagName("head")[0].appendChild(m);if(i        in        n){l.pcErr=function(e){e=e||n.event;p=e.target||e.srcElement;if(p        instanceof        Element||p        instanceof        HTMLElement){n[a](o,"st",{tagName:p.tagName,url:p[s]("href")||p[s]("src")})}else{n[a](o,"err",e.error||e.message)}};l.pcRej=function(e){e=e||n.event;n[a](o,"reject",e.reason||e.detail&&e.detail.reason)};n[i]("error",l.pcErr,true);n[i]("unhandledrejection",l.pcRej,true)}if("PerformanceLongTaskTiming"in        n){u=l.pp={entries:[]};u.observer=new        PerformanceObserver(function(e){u.entries=u.entries.concat(e.getEntries())});u.observer.observe({entryTypes:["longtask"]})}})(window,document,"https://apm.volccdn.com/mars-web/apmplus/web/browser.cn.js",0,"apmPlus");</script>
+<script>window.apmPlus("init",{
+        aid:566559,
+        token: "f870c26146004d2e80179ff6ff3c0c54",
+        env: "production",
+        plugins: {
+          ajax: false,
+          fetch: false,
+          pageview: false,
+          performance: false,
+          jsError: {
+            captureGlobalAsync: true
+          },
+          resource: {
+            ignoreTypes: ['xmlhttprequest', 'fetch', 'beacon', 'css'],
+          }
+        }
+      });
+      window.apmPlus("start");</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-YXD8W70SZP"></script>
+<script>window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-YXD8W70SZP');</script>
+<script>var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?358cae4815e85d48f7e8ab7f3680a74b";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();</script>
+<script>(function(win, export_obj) {
+        win['LogAnalyticsObject'] = export_obj;
+        if (!win[export_obj]) {
+          var _collect = function() {
+            _collect.q.push(arguments);
+          }
+          _collect.q = _collect.q || [];
+          win[export_obj] = _collect;
+        }
+        win[export_obj].l = +new Date();
+      })(window, 'collectEvent');</script>
+<script async="" src="https://lf3-data.volccdn.com/obj/data-static/log-sdk/collect/5.0/collect-rangers-v5.1.7.js"></script>
+<script>window.collectEvent('init', {
+        app_id: 20001731,
+        // channel: 'cn',
+        channel_domain: 'https://gator.volces.com',
+        ab_channel_domain: 'https://tab.volces.com',
+        log: true,
+        autotrack: true,
+        // enable_debug: true,
+        enable_ab_test: true,
+      });
+      window.collectEvent('getAllVars', function (allABTestMap) {
+        for (var key in allABTestMap) {
+          window.collectEvent('getVar', key, true, function() {})
+        }
+      });
+      window.collectEvent('start');</script>
+<script>
+      if (window.location.pathname.indexOf('/&')=== 0) {
+        location.replace('/')
+      }
+    </script><title>Kimi.ai - 帮你看更大的世界</title><meta name="description" content="Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧 | Kimi.ai - Moonshot AI 出品的智能助手"><meta name="keywords" content="Kimi,Kimi.ai,MoonshotAI,Moonshot,月之暗面,大语言模型,自然语言处理,人工智能大模型,AI聊天机器人,AI聊天,AI创作,国内大模型公司,AI聊天,AI助手,上下文窗口,context,long,超长"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="format-detection" content="telephone=no,email=no"><meta name="apple-mobile-web-app-title" content="Kimi"><meta name="msvalidate.01" content="38E0A3C40C0983D8FED5BD0B59E78653"><meta name="baidu-site-verification" content="codeva-w8jRQyIVVM"><meta name="sogou_site_verification" content="ZbupFZEZFQ"></head>
+<body>
+<div id="root"></div>
+<script src="//statics.moonshot.cn/kimi-chat/umi.9869e97e.js"></script>
+
+</body></html>
